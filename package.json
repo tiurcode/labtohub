@@ -1,0 +1,20 @@
+{
+    "name": "philips-hue",
+    "version": "1.0.0",
+    "description": "Philips Hue -valojen ohjaus",
+    "main": "server.js",
+    "dependencies": {
+      "axios": "^0.20.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "hue",
+      "nodejs",
+      "philips"
+    ],
+    "author": "Jaakko Vanhala <jaakko.vanhala@kamk.fi>",
+    "license": "MIT"
+  }
